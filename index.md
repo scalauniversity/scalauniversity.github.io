@@ -11,7 +11,7 @@ Scala University is an initiative of Scala practitioners from Pune. It was start
 
 ##### **How did it start?**
 
-We are using Scala in anger for a long time. In the process, we have learnt a lot about Scala and also about good programming practices. We have been using many open source tools, libraries offered by wonderful Scala community. Many of us have greatly benefited from the Coursera courses on Scala and Reactive programming. The whole journey has been fun. "Scala University" is an attempt to give back to the community.
+We are using Scala in anger for a long time. In the process, we have learnt a lot about Scala and also about good programming practices. We have been using many open source tools, libraries offered by wonderful Scala community. Many of us have greatly benefited from the [Coursera](https://www.coursera.org/course/progfun) [courses](https://www.coursera.org/course/reactive) on Scala and Reactive programming. The whole journey has been fun. "Scala University" is an attempt to give back to the community.
 
 As a first step, we conducted a 4-day [Scala Workshop in Pune](http://www.punescala.org/training/2014/05/15/principles-of-programming-in-scala/) on 20-23 June 2014. The event was "free" for all those who could clear a coding test. The response was overwhelming:
 
