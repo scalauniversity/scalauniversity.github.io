@@ -46,7 +46,7 @@ Learning and teaching Scala is a joy which in itself is a big reward. But there 
 
 ##### **Next steps**
 
-We also want to do this in other cities where ThoughtWorks has offices. And we want to do multiple batches at each location if there is enough interest. If you are are a ThoughtWorker interested in doing a batch of "Scala University" in your city, please ping me. If you are a potential attendee, [please let us know](/register/) in which cities you would like to attend these workshops. Based on that data, we may also plan a workshop in cities where ThoughtWorks does not have a office (for example, Mumbai or Nagpur).
+We also want to do this in other cities where ThoughtWorks has offices. And we want to do multiple batches at each location if there is enough interest. If you are are a ThoughtWorker interested in doing a batch of "Scala University" in your city, please get in touch. If you are a potential attendee, [please let us know](/register/) in which cities you would like to attend these workshops. Based on that data, we may also plan a workshop in cities where ThoughtWorks does not have a office (for example, Mumbai or Nagpur).
 
 Many have requested us to do workshops on advanced/focused topics. We are thinking of covering following topics eventually:
 
