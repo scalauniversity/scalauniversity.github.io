@@ -29,7 +29,7 @@ The workshop also generated huge amount of goodwill for us in the local communit
 
 The [Scala deep-dive workshop](/deep-dive-contents) that we are currently offering covers language fundamentals with hands on assignments. The workshop is always planned around the weekend. So, each attendee (which include ThoughtWorkers) has to invest 2 working days and a full weekend for the workshop. People have suggested compressing the workshop to 3 days, but we feel that you need at least 4 full days to give a complete perspective of the basic language.
 
-Our colleagues from local ThoughtWorks offices are critical for organizing and logistics. [Tushar Garg](https://twitter.com/tushargargdm) from Gurgaon and [Aravindh S](https://plus.google.com/109576528272334995518/posts) from Chennai have driven the respective workshops. Local office colleagues also help with the code reviews. Reviewing so many code submission is the most difficult task. Kudos to all my colleagues who helped! 
+Our colleagues from local ThoughtWorks offices are critical for organizing and logistics. [Tushar Garg](https://twitter.com/tushargargdm) from Gurgaon and [Aravindh S](https://plus.google.com/109576528272334995518/posts) from Chennai have driven the respective workshops. Local office colleagues also help with the code reviews. Reviewing so many code submission is the most difficult task. Kudos to all our colleagues who helped! 
 
 We announce the workshop around 1 month in advance. Roughly 25% of those who register submit the code and 30% of those who submit the code qualify for the workshop. In our experience, the course turns out to be 'intense and fun' for smart developers. 
 
